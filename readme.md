@@ -1,12 +1,12 @@
-# _Leap year_
+# Leap year
 
-#### _leap year website, 12/6/2017_
+leap year website, 12/6/2017
 
-#### By _**telpuhova & katetrahan**_
+**By telpuhova & katetrahan**
 
 ## Description
 
-_A leap-year website, that returns if the year is a leap year or not. Made as an assignment for a coding school_
+A leap-year website, that returns if the year is a leap year or not. Made as an assignment for a coding school
 
 ### Specs
 | Spec | Input | Output |
@@ -18,11 +18,11 @@ _A leap-year website, that returns if the year is a leap year or not. Made as an
 
 ## Setup
 
-* _clone repository_
-* _open index.html in browser_
+* clone repository
+* open index.html in browser
 
 ## Technologies Used
 
-_HTML, CSS, JS, Bootstrap, jquery_
+HTML, CSS, JS, Bootstrap, jquery
 
-Copyright (c) 2017 **_telpuhova & katetrahan_**
+Copyright (c) 2017 telpuhova & katetrahan
